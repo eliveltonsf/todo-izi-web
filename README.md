@@ -3,7 +3,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/eliveltonsf/w3lcome-tasks/main/client/public/demo-client.gif"/>
+<img src="https://raw.githubusercontent.com/eliveltonsf/todo-izi-web/main/src/assets/todo-izi-web.gif"/>
 
 <br />
 
