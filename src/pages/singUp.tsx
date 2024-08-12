@@ -78,7 +78,7 @@ export default function SingUp() {
         </div>
         <form
           onSubmit={handleSubmit(handleUserData)}
-          className="p-3  flex flex-col gap-3 w-full"
+          className="p-3 flex flex-col gap-3 w-full"
           autoComplete="off"
         >
           <TextInput
